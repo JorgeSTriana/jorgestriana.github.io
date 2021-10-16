@@ -289,7 +289,7 @@
               <img src="assets/img/portfolio/img-portafolio.PNG" class="img-fluid" alt="" height="450px" width="350px">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/img-portafolio.PNG" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Portafolio"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -299,7 +299,7 @@
               <img src="assets/img/portfolio/img-portafolio2.png" class="img-fluid" alt="" height="450px" width="350px">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/img-portafolio2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="website of objets swap"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details2.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details2.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -309,7 +309,7 @@
               <img src="assets/img/portfolio/muebles-logo.png" class="img-fluid" alt="" height="400px" width="350px">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/comedor.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Muebles"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details3.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="portfolio-details3.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
