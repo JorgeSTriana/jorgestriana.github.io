@@ -7,10 +7,10 @@ if (isset($_POST['enviar'])) {
     $subject = $_POST['subject'];
     $message = $_POST['message'];
     $to = 'jorgetriana1951@gmail.com'
-    $header = "From: noreplay@example.com" . "\r\n";
-    $header .= "Reply-To: noreplay@example.com" . "\r\n";
+    $header = "From: jorgetriana1951@hotmail.com" . "\r\n";
+    $header .= "Reply-To: jorgetriana1951@hotmail.com" . "\r\n";
     $header .= "X_Mailer: PHP/". phpversion();
-    $mail = @mail($to, $subject, $message);
+    $mail = @mail($email, $subject, $message);
     if ($mail) {
       echo "<h4>¡Correo enviado exitosamente!</h4>";
     }
