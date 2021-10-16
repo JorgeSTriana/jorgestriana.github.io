@@ -423,7 +423,7 @@
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
   <?php
-  include(contact.php);
+  include('contact.php');
   ?>
 </body>
 
