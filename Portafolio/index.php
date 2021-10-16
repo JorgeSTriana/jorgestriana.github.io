@@ -46,7 +46,7 @@
 
       <div class="profile">
         <a href="#hero"><img src="assets/img/profile.jpeg" alt="" class="img-fluid rounded-circle"></a>
-        <h1 class="text-light"><a href="index.html">Jorge Triana</a></h1>
+        <h1 class="text-light"><a href="index.php">Jorge Triana</a></h1>
         <div class="social-links mt-3 text-center">
           <!-- <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
           <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>

@@ -45,8 +45,8 @@
     <div class="d-flex flex-column">
 
       <div class="profile">
-        <a href="/index.html"><img src="assets/img/profile.jpeg" alt="" class="img-fluid rounded-circle"></a>
-        <h1 class="text-light"><a href="index.html">Jorge Triana</a></h1>
+        <a href="/index.php"><img src="assets/img/profile.jpeg" alt="" class="img-fluid rounded-circle"></a>
+        <h1 class="text-light"><a href="index.php">Jorge Triana</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="https://github.com/JorgeSTriana" target="_blank" class="google-plus"><i class="bx bxl-github"></i></a>
           <a href="https://www.linkedin.com/in/jorge-triana-56957612a/" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
@@ -55,7 +55,7 @@
 
       <nav id="navbar" class="nav-menu navbar">
         <ul>
-          <li><a href="/index.html" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li><a href="/index.php" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
           <li><a href="/assets/pdfs/Hoja de vida 2021.pdf" download="JorgeLuisSeguraTriana" class="nav-link scrollto"><i class="bx bx-download"></i> <span>Download CV</span></a></li>
         </ul>
       </nav><!-- .nav-menu -->
@@ -71,7 +71,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Swap Detalles</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>Swap Detalles</li>
           </ol>
         </div>
