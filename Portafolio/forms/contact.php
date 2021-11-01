@@ -5,10 +5,11 @@ if (isset($_POST['enviar'])) {
     $email = $_POST['email'];
     $subject = $_POST['subject'];
     $message = $_POST['message'];
-    $header = "From: jorgetriana1951@hotmail.com" . "\r\n";
+    $to = "jorgetriana1951@gmail.com";
+    $header = "From: $email . "\r\n";
     $header .= "Reply-To: jorgetriana1951@hotmail.com" . "\r\n";
     $header .= "X_Mailer: PHP/". phpversion();
-    $mail = @mail($email, $subject, $message);
+    $mail = mail($to, $subject, $message);
     if ($mail) {
       echo "<h4>¡Correo enviado exitosamente!</h4>";
     }
