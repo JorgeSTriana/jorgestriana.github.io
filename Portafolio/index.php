@@ -355,7 +355,7 @@
 
           </div>
 
-          <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+          <!-- <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
             <form action="/forms/enviar.php" method="post" >
               <div class="row">
                 <div class="form-group col-md-6">
@@ -382,7 +382,7 @@
               </div>
               <div class="text-center"><button type="submit">Enviar Mensaje</button></div>
             </form>
-          </div>
+          </div> -->
 
         </div>
 
