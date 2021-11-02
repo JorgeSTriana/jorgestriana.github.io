@@ -298,7 +298,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/img-portafolio2.png" class="img-fluid" alt="" height="450px" width="350px">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/img-portafolio2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="website of objets swap"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/img-portafolio2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="website de intercambio de objetos"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details2.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -308,7 +308,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/home.png" class="img-fluid" alt="" height="400px" width="350px">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/home.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Muebles"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/home.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Website de administración de Muebles"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details3.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
