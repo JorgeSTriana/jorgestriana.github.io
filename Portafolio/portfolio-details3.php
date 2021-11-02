@@ -90,11 +90,11 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/comedor.jpg" alt="">
+                  <img src="assets/img/portfolio/home.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/bedroom.jpg" alt="">
+                  <img src="assets/img/portfolio/empleado.PNG" alt="">
                 </div>
 
                 <div class="swiper-slide">

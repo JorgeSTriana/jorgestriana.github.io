@@ -308,7 +308,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/home.png" class="img-fluid" alt="" height="400px" width="350px">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/comedor.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Muebles"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/home.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Muebles"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details3.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
