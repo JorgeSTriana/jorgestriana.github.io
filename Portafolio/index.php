@@ -306,7 +306,7 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/muebles-logo.png" class="img-fluid" alt="" height="400px" width="350px">
+              <img src="assets/img/portfolio/home.PNG" class="img-fluid" alt="" height="400px" width="350px">
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/comedor.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Muebles"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details3.php" title="More Details"><i class="bx bx-link"></i></a>
