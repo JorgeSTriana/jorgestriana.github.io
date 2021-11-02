@@ -112,7 +112,7 @@
               <ul>
                 <li><strong>Category</strong>: Web design</li>
                 <li><strong>Client</strong>: Empresa de muebles</li> 
-                <li><strong>Project date</strong>: actual</li>
+                <li><strong>Project date</strong>: en desarrollo</li>
                 <li><strong>Project URL</strong>: <a href="#"></a></li>
               </ul>
             </div>
@@ -120,7 +120,7 @@
               <h2>Muebles</h2>
               <p>
                 Proyecto para administración de empresa de Diseño, fabricación, proceso de pintura y ventas de Muebles.
-                Proyecto en vue.js, bootstrap5, mongoDB, js, Json
+                Proyecto en vue.js, bootstrap5, mongoDB, js, Json, Backend en express
               </p>
               <!-- <a href="https://github.com/JorgeSTriana/Portafolio-Template" target="_blank" class="google-plus"><i class="bx bxl-github"></i></a> -->
               <a href="https://github.com/JorgeSTriana/" target="_blank"><img src="https://img.icons8.com/ios-filled/100/000000/github.png"/>GitHub</a>
