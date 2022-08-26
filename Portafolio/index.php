@@ -65,7 +65,7 @@
           <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
           <!-- <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li> -->
           <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Contact</span></a></li>
-          <li><a href="/assets/pdfs/Hoja de vida 2021.pdf" download="JorgeLuisSeguraTriana" class="nav-link scrollto"><i class="bx bx-download"></i> <span>Download CV</span></a></li>
+          <li><a href="/assets/pdfs/Hoja de vida 2022.pdf" download="JorgeLuisSeguraTriana" class="nav-link scrollto"><i class="bx bx-download"></i> <span>Download CV</span></a></li>
         </ul>
       </nav><!-- .nav-menu -->
     </div>
@@ -110,7 +110,7 @@
               </div>
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Edad:</strong> <span>35</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Edad:</strong> <span>36</span></li>
                   <!-- <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li> -->
                   <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>jorgetriana1951@hotmail.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Disponible</span></li>
@@ -214,10 +214,16 @@
 
             <h3 class="resume-title">Educación</h3>
             <div class="resume-item">
-              <h4>Misión Mintic 2022</h4>
+              <h4>Certificaciones en Plataformas Educativas</h4>
               <h5>actual</h5>
+              <p><em>Platzi, Udemy, Fundación Carlos Slim, freeCodeCamp</em></p>
+              <p>bootcamp de React, Bootcamp deNode.js y express, Bootcamp JavaScript, React, Python, Git y Github .</p>
+            </div>
+            <div class="resume-item">
+              <h4>Diplomado en Desarrollo de Aplicaciones Web Misión TIC 2022</h4>
+              <h5>Feb - Dic 2021</h5>
               <p><em>Universidad Tecnológica de Pereira</em></p>
-              <p>programación en python y java, Desarrollo de aplicativo web con vue.js, bootstrap5, Json, html, css, js, postman, mongodb y heroku, desarrollado mediante metodologia scrum y su entorno de trabajo Azure DevOps, Git y GitHub.</p>
+              <p>programación en python y java, Desarrollo de aplicativos web con vue.js, React, bootstrap5, Json, html, css, js, Node.js, Express, postman, mongodb y heroku, desarrollado mediante metodologia scrum y Azure DevOps, Git y GitHub.</p>
             </div>
             <div class="resume-item">
               <h4>Tecnólogo en análisis y desarrollo de sistemas de información</h4>
@@ -312,8 +318,7 @@
                 <a href="portfolio-details3.php" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
-          </div>
-           
+          </div>           
         </div>
 
       </div>
